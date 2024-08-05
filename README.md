@@ -14,8 +14,6 @@
 
  <br/>
 
- ![Eduardo Couto's GitHub stats](https://github-readme-stats.vercel.app/api?username=Couto-Carlos&show_icons=true&theme=dracula)
-
 
 
 
