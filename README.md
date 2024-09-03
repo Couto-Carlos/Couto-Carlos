@@ -13,17 +13,12 @@
 <div><br/>
 
  <br/>
+ 
+#### Connect with me
 
-
-
-
-#### Entre em contato comigo:
-
-
-
-[![Contato](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5584987789954)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carloscoutoprof@gmail.com?subject=Contato%20Profissional%3A&body=Sauda%C3%A7%C3%A3o%2C%20Envie-me%20um%20email%3A)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carlos_cout/n)
+[![Contato](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=blue)](https://wa.me/5584987789954)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=blue)](mailto:carloscoutoprof@gmail.com?subject=Contato%20Profissional%3A&body=Sauda%C3%A7%C3%A3o%2C%20Envie-me%20um%20email%3A)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=blue)](https://www.instagram.com/carlos_cout/n)
 
 
 
