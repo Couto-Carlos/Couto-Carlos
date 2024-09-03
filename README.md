@@ -1,4 +1,4 @@
-## Bem Vindo ao meu GitHub! Sou Carlos Eduardo Couto 🖖
+## Carlos Eduardo Couto 
 
 #### Atualmente estou cursando Ciência da Computação na UFERSA - Universidade Federal Rural do Semi-Árido. <br/> Técnico em Informática, Formado pelo IFRN - Instituto Federal do Rio Grande do Norte, 2021
 
